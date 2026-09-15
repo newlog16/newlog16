@@ -7,7 +7,7 @@ Hey! wanna check my <a href="https://newlog16.github.io/profoolioProject/">portf
 **About me:**
 
 
-- I have recently graduated from the  <a href="https://www.betrybe.com/">Trybe</a> course.
+- Geaduate from the  <a href="https://www.betrybe.com/">Trybe</a> course.
 - Playing video-games is what i like to do on spare time.
 - I hope to be able to help others and be helped by them.
 - I want to learn other programming lenguages on the future.
